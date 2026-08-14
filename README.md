@@ -10,7 +10,7 @@ I have knowledge of **Core Java, OOP, JavaScript, Oracle SQL, JDBC, HTML, CSS**,
 ## 🌐 Live Portfolio
 
 🚀 **Portfolio:**
-https://bhargavitoorpu-0c2b13.netlify.app/
+https://bhargavitoorpu.netlify.app/
 
 ## 🔗 Connect With Me
 
